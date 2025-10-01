@@ -1,3 +1,3 @@
 # Sample Repository
 
-## My Username is CodeByFred
+My username is beltran-natalia
