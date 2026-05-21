@@ -1,3 +1,1 @@
-# Sample Repository
-
-## My Username is CodeByFred
+GitHub Username: jjyy032659
